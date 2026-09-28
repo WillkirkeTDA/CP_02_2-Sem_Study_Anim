@@ -18,5 +18,6 @@ public class PirateAnimator : MonoBehaviour
         animator.SetInteger("pJump", pirateInput.JumpValue());
         animator.SetInteger("pMove", pirateInput.MoveValueX());
         animator.SetBool("pGround", pirateInput.Grounded());
+
     }
 }

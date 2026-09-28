@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.UI; // Required for Legacy UI elements
+using UnityEngine.UI; 
 
 public class Collectible : MonoBehaviour
 {
